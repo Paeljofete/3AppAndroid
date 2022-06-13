@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My3App</string>
+
+    <string name="buttonHeroes">Héroes de Papel</string>
+    <string name="buttonFecha">Fecha de estreno</string>
+    <string name="buttonMaps">Localización</string>
+</resources>
